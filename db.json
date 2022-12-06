@@ -18,7 +18,7 @@
       "imageDark": "/projects/polaroids.dark.png",
       "description": "Bonitas fotos estilo polaroid expuestas desordenadamente sobre una mesa.",
       "tags": "photo, css, grid",
-      "url": "https://manumorante.github.io/polaroids/",
+      "url": "https://polaroids.manumorante.com",
       "repository": "https://github.com/manumorante/polaroids"
     },
     {
@@ -28,7 +28,7 @@
       "image": "/projects/posters.png",
       "description": "Carteles de cine minimalistas creados y animados por código.",
       "tags": "movies, css, animation",
-      "url": "",
+      "url": "https://posters.manumorante.com",
       "repository": "https://github.com/manumorante/minimalist-movie-posters"
     },
     {
@@ -38,7 +38,7 @@
       "image": "/projects/csspen.png",
       "description": "Logos famosos en animación paso a paso con CSS.",
       "tags": "learning, css, animation",
-      "url": "",
+      "url": "https://csspen.es",
       "repository": "https://github.com/manumorante/csspen.es"
     },
 
@@ -49,7 +49,7 @@
       "image": "/projects/scenic.png",
       "description": "Mi versión de una web de cine con diseño inspirado en Letterboxd y que me ha servido para practicar con arquitecturas limpias.",
       "tags": "movies, cinema",
-      "url": "",
+      "url": "scenic.manumorante.com",
       "repository": "https://github.com/manumorante/scenic"
     },
     {
@@ -58,7 +58,7 @@
       "image": "/projects/mimimi.png",
       "description": "Convierte texto a \"mi mi mi\". Lo puedes mandar como enlace y divertirte (o molestar a alguien ...)",
       "tags": "funny, mimificador",
-      "url": "https://manumorante.github.io/mimimi/",
+      "url": "https://mimimi.manumorante.com",
       "repository": "https://github.com/manumorante/mimimi"
     },
     {
@@ -68,7 +68,7 @@
       "image": "/projects/masonry.png",
       "description": "Una bonita galería de fotos que aprovecha las ventajas de CSS Grid.",
       "tags": "css, grid, masonry",
-      "url": "https://manumorante.github.io/mm-masonry/",
+      "url": "https://masonry.manumorante.com",
       "repository": "https://github.com/manumorante/masonry"
     },
     {
@@ -77,7 +77,7 @@
       "image": "/projects/sor.png",
       "description": "Introducción del juego adorado Streets of Rage de Sega Megadrive creado y animado todo con código.",
       "tags": "portfolio",
-      "url": "",
+      "url": "https://streets-of-rage.manumorante.com",
       "repository": "https://github.com/manumorante/streets-of-rage"
     }
   ]
