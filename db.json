@@ -1,223 +1,84 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davidhemphill/128.jpg",
-            "name": "Larry Romo Mascareñas",
-            "email": "AnaMara_Puga49@gmail.com",
-            "phone": "942 558 884"
-        },
-        {
-            "id": 2,
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chadengle/128.jpg",
-            "name": "Russell Olivo Fajardo",
-            "email": "Hernn15@gmail.com",
-            "phone": "919464135"
-        },
-        {
-            "id": 3,
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nicolasfolliot/128.jpg",
-            "name": "Sra. Erma Quiróz Vaca",
-            "email": "Cristbal38@hotmail.com",
-            "phone": "959415173"
-        },
-        {
-            "id": 4,
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ivanfilipovbg/128.jpg",
-            "name": "Eric Acosta Laboy",
-            "email": "Horacio.Mesa@yahoo.com",
-            "phone": "900592759"
-        },
-        {
-            "id": 5,
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jydesign/128.jpg",
-            "name": "Ruth Rodríguez Alvarado",
-            "email": "Germn54@hotmail.com",
-            "phone": "924 310 527"
-        }
-    ],
-    "posts": [
-        {
-            "userId": 1,
-            "id": 1,
-            "title": "Fugiat repudiandae voluptates dolorem quia a neque.",
-            "body": "Autem dicta aliquid aut distinctio sed. Dicta voluptatum vitae aut dolorum. Rerum consequatur voluptatem facere nesciunt nostrum reiciendis. Maxime animi necessitatibus minima atque non voluptas sed voluptatem. Voluptate praesentium tempora rerum eos magnam doloremque non. Adipisci molestiae aperiam aliquid tenetur doloribus quisquam omnis labore vitae."
-        },
-        {
-            "userId": 1,
-            "id": 2,
-            "title": "Quidem esse quaerat exercitationem aut velit officia expedita necessitatibus.",
-            "body": "Nostrum quia in. Nemo hic dolores. Numquam aut pariatur id tempora ut inventore ad id dolores. Dicta aperiam tempore saepe corporis."
-        },
-        {
-            "userId": 3,
-            "id": 3,
-            "title": "Accusantium quos fugiat aspernatur qui quo qui.",
-            "body": "Quidem animi et adipisci veniam unde adipisci. Id omnis quae. Repellendus placeat rem quis aut consequuntur. Est eos et eius est. Ex iure ut non quasi error animi quod. Aspernatur aut doloribus iste sed voluptatem voluptas quod et voluptates."
-        },
-        {
-            "userId": 5,
-            "id": 4,
-            "title": "Sint aut ea sapiente.",
-            "body": "Autem voluptates corrupti vel aut rerum sint. Sed ut inventore non atque eum. Hic veritatis ratione molestiae ut. Ab voluptatem assumenda maxime."
-        },
-        {
-            "userId": 5,
-            "id": 5,
-            "title": "Alias officia dicta nesciunt numquam qui quia.",
-            "body": "Aperiam voluptas ea provident dolores laborum consequatur. Laborum in ut et impedit quia. Enim omnis optio sed odio maxime. Laboriosam ut explicabo et neque ut. Sed quo quam nesciunt mollitia illum et."
-        },
-        {
-            "userId": 3,
-            "id": 6,
-            "title": "Distinctio qui vero rerum aut.",
-            "body": "Velit minus illum nemo. Et quos voluptas aperiam quia eius ut qui rerum sed. Ea soluta totam quis ea. Eos voluptatibus laudantium culpa."
-        },
-        {
-            "userId": 1,
-            "id": 7,
-            "title": "Quia voluptatum tenetur.",
-            "body": "Quo iure dolorum et doloribus in tenetur laborum. Voluptas beatae est sed accusamus eaque molestiae consectetur. At et sint perferendis. Voluptas unde numquam nemo error fugiat vitae autem. Rerum ea dolorem delectus quasi. Voluptates consequatur praesentium nulla voluptas amet adipisci sequi corporis."
-        },
-        {
-            "userId": 3,
-            "id": 8,
-            "title": "Et aut corporis dicta.",
-            "body": "Quia facere unde ipsum illum. Sunt consequatur dolores quo. Eum molestias vitae praesentium molestias aut qui iusto architecto. Voluptas magnam laudantium totam modi non libero corporis."
-        },
-        {
-            "userId": 2,
-            "id": 9,
-            "title": "Est mollitia deserunt autem modi adipisci ut voluptates non.",
-            "body": "Non odit voluptatem error dolorem. Impedit similique qui sed nostrum accusantium porro debitis vitae. Nulla illum eveniet facilis ducimus quo quod quia nostrum."
-        },
-        {
-            "userId": 4,
-            "id": 10,
-            "title": "Explicabo voluptatibus temporibus temporibus consequatur mollitia iusto.",
-            "body": "Iusto vero atque quam. Incidunt odio quis optio ut illo nobis. Vitae recusandae dolores distinctio libero. Sint architecto velit fugit est. Sint dolor repellat. Rerum iure quis officiis voluptatem ipsa assumenda."
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "userId": 4,
-            "postId": 7,
-            "body": "Sed veniam molestiae et delectus nostrum sit iste."
-        },
-        {
-            "id": 2,
-            "userId": 1,
-            "postId": 1,
-            "body": "Sunt repellendus minima."
-        },
-        {
-            "id": 3,
-            "userId": 1,
-            "postId": 3,
-            "body": "Voluptates nemo optio omnis excepturi."
-        },
-        {
-            "id": 4,
-            "userId": 3,
-            "postId": 11,
-            "body": "Esse aut ut."
-        },
-        {
-            "id": 5,
-            "userId": 1,
-            "postId": 11,
-            "body": "Laboriosam hic ut voluptas quae voluptatum."
-        },
-        {
-            "id": 6,
-            "userId": 1,
-            "postId": 7,
-            "body": "Ipsa est itaque id quo."
-        },
-        {
-            "id": 7,
-            "userId": 1,
-            "postId": 7,
-            "body": "Consequatur mollitia veritatis qui."
-        },
-        {
-            "id": 8,
-            "userId": 5,
-            "postId": 8,
-            "body": "Quo occaecati earum nostrum."
-        },
-        {
-            "id": 9,
-            "userId": 2,
-            "postId": 3,
-            "body": "Ipsa illo molestiae non nam tenetur in aut et."
-        },
-        {
-            "id": 10,
-            "userId": 5,
-            "postId": 6,
-            "body": "Voluptas cum fugiat."
-        },
-        {
-            "id": 11,
-            "userId": 4,
-            "postId": 6,
-            "body": "Officia vitae aut."
-        },
-        {
-            "id": 12,
-            "userId": 1,
-            "postId": 7,
-            "body": "Repudiandae asperiores aut."
-        },
-        {
-            "id": 13,
-            "userId": 3,
-            "postId": 5,
-            "body": "Sed possimus voluptate minima dicta eligendi expedita ab."
-        },
-        {
-            "id": 14,
-            "userId": 2,
-            "postId": 3,
-            "body": "A eius iure quibusdam libero consectetur consequatur consequatur dolorem libero."
-        },
-        {
-            "id": 15,
-            "userId": 1,
-            "postId": 8,
-            "body": "Voluptatum sapiente molestiae."
-        },
-        {
-            "id": 16,
-            "userId": 2,
-            "postId": 6,
-            "body": "Beatae perferendis libero non facilis quia laudantium reiciendis."
-        },
-        {
-            "id": 17,
-            "userId": 3,
-            "postId": 4,
-            "body": "Alias quasi maiores aut quas voluptatem."
-        },
-        {
-            "id": 18,
-            "userId": 5,
-            "postId": 2,
-            "body": "Et praesentium qui nihil at exercitationem est."
-        },
-        {
-            "id": 19,
-            "userId": 3,
-            "postId": 1,
-            "body": "Qui assumenda eum dolore aut dolores ipsum cum."
-        },
-        {
-            "id": 20,
-            "userId": 2,
-            "postId": 8,
-            "body": "Maiores consequatur rerum labore et molestias alias."
-        }
-    ]
+  "projects": [
+    {
+      "name": "Mordisco Club",
+      "id": "mordiscoclub",
+      "new": true,
+      "image": "/projects/mordiscoclub.png",
+      "description": "Club website.",
+      "tags": "club",
+      "url": "https://mordisco.club",
+      "repository": "https://github.com/manumorante/mordisco.club"
+    },
+    {
+      "name": "Polaroids",
+      "id": "polaroids",
+      "new": true,
+      "image": "/projects/polaroids.png",
+      "imageDark": "/projects/polaroids.dark.png",
+      "description": "Bonitas fotos estilo polaroid expuestas desordenadamente sobre una mesa.",
+      "tags": "photo, css, grid",
+      "url": "https://manumorante.github.io/polaroids/",
+      "repository": "https://github.com/manumorante/polaroids"
+    },
+    {
+      "name": "Minimalist Movie Posters",
+      "id": "posters",
+      "new": false,
+      "image": "/projects/posters.png",
+      "description": "Carteles de cine minimalistas creados y animados por código.",
+      "tags": "movies, css, animation",
+      "url": "",
+      "repository": "https://github.com/manumorante/minimalist-movie-posters"
+    },
+    {
+      "name": "CSS Pen",
+      "id": "csspen",
+      "new": false,
+      "image": "/projects/csspen.png",
+      "description": "Logos famosos en animación paso a paso con CSS.",
+      "tags": "learning, css, animation",
+      "url": "",
+      "repository": "https://github.com/manumorante/csspen.es"
+    },
+
+    {
+      "name": "Scenic Movies",
+      "id": "scenic",
+      "new": false,
+      "image": "/projects/scenic.png",
+      "description": "Mi versión de una web de cine con diseño inspirado en Letterboxd y que me ha servido para practicar con arquitecturas limpias.",
+      "tags": "movies, cinema",
+      "url": "",
+      "repository": "https://github.com/manumorante/scenic"
+    },
+    {
+      "name": "Mi mi mi",
+      "id": "mimimi",
+      "image": "/projects/mimimi.png",
+      "description": "Convierte texto a \"mi mi mi\". Lo puedes mandar como enlace y divertirte (o molestar a alguien ...)",
+      "tags": "funny, mimificador",
+      "url": "https://manumorante.github.io/mimimi/",
+      "repository": "https://github.com/manumorante/mimimi"
+    },
+    {
+      "name": "Galería de fotos Masonry",
+      "id": "masonry",
+      "new": false,
+      "image": "/projects/masonry.png",
+      "description": "Una bonita galería de fotos que aprovecha las ventajas de CSS Grid.",
+      "tags": "css, grid, masonry",
+      "url": "https://manumorante.github.io/mm-masonry/",
+      "repository": "https://github.com/manumorante/masonry"
+    },
+    {
+      "name": "Streets of Rage",
+      "id": "sor",
+      "image": "/projects/sor.png",
+      "description": "Introducción del juego adorado Streets of Rage de Sega Megadrive creado y animado todo con código.",
+      "tags": "portfolio",
+      "url": "",
+      "repository": "https://github.com/manumorante/streets-of-rage"
+    }
+  ]
 }
