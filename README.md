@@ -1,10 +1,7 @@
 # JSON data for manumorante.com 
 
-### Posts
-https://my-json-server.typicode.com/manumorante/db/posts
+### Get the all projects
+https://my-json-server.typicode.com/manumorante/db/projects
 
-### The post with id 1
-https://my-json-server.typicode.com/manumorante/db/posts/1
-
-### Users 5
-https://my-json-server.typicode.com/manumorante/db/users/5
+### Get the pos one project
+https://my-json-server.typicode.com/manumorante/db/projects/1
