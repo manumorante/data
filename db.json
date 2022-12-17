@@ -49,7 +49,7 @@
       "image": "/projects/scenic.png",
       "description": "Mi versión de una web de cine con diseño inspirado en Letterboxd y que me ha servido para practicar con arquitecturas limpias.",
       "tags": "movies, cinema",
-      "url": "scenic.manumorante.com",
+      "url": "https://scenic.manumorante.com",
       "repository": "https://github.com/manumorante/scenic"
     },
     {
@@ -79,6 +79,15 @@
       "tags": "portfolio",
       "url": "https://streets-of-rage.manumorante.com",
       "repository": "https://github.com/manumorante/streets-of-rage"
+    },
+      {
+      "name": "Raycast DS Utility",
+      "id": "ds-utility",
+      "image": "https://user-images.githubusercontent.com/3266486/140176890-f477f41d-8292-4f39-a101-445086828b7b.png",
+      "description": "Raycast Extension to manipulate DS Utilities classes.",
+      "tags": "raycast, tool, css, ds",
+      "url": "https://manumorante.github.io/raycast-ds-utilities/",
+      "repository": "https://github.com/manumorante/raycast-ds-utilities"
     }
   ]
 }
