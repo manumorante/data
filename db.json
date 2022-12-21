@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Mordisco Club",
-      "id": "mordiscoclub",
+      "id": "mordiscoc.lub",
       "featured": true,
       "image": "/projects/mordiscoclub.png",
       "imageDark": "",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Minimalist Movie Posters",
-      "id": "posters",
+      "id": "minimalist-movie-posters",
       "featured": false,
       "image": "/projects/posters.png",
       "imageDark": "",
