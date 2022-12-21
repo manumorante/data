@@ -3,8 +3,9 @@
     {
       "name": "Mordisco Club",
       "id": "mordiscoclub",
-      "new": true,
+      "featured": true,
       "image": "/projects/mordiscoclub.png",
+      "imageDark": "",
       "description": "Club website.",
       "tags": "club",
       "url": "https://mordisco.club",
@@ -13,7 +14,7 @@
     {
       "name": "Polaroids",
       "id": "polaroids",
-      "new": true,
+      "featured": true,
       "image": "/projects/polaroids.png",
       "imageDark": "/projects/polaroids.dark.png",
       "description": "Bonitas fotos estilo polaroid expuestas desordenadamente sobre una mesa.",
@@ -24,8 +25,9 @@
     {
       "name": "Minimalist Movie Posters",
       "id": "posters",
-      "new": false,
+      "featured": false,
       "image": "/projects/posters.png",
+      "imageDark": "",
       "description": "Carteles de cine minimalistas creados y animados por código.",
       "tags": "movies, css, animation",
       "url": "https://posters.manumorante.com",
@@ -34,8 +36,9 @@
     {
       "name": "CSS Pen",
       "id": "csspen",
-      "new": false,
+      "featured": false,
       "image": "/projects/csspen.png",
+      "imageDark": "",
       "description": "Logos famosos en animación paso a paso con CSS.",
       "tags": "learning, css, animation",
       "url": "https://csspen.es",
@@ -45,8 +48,9 @@
     {
       "name": "Scenic Movies",
       "id": "scenic",
-      "new": false,
+      "featured": false,
       "image": "/projects/scenic.png",
+      "imageDark": "",
       "description": "Mi versión de una web de cine con diseño inspirado en Letterboxd y que me ha servido para practicar con arquitecturas limpias.",
       "tags": "movies, cinema",
       "url": "https://scenic.manumorante.com",
@@ -55,7 +59,9 @@
     {
       "name": "Mi mi mi",
       "id": "mimimi",
+      "featured": false,
       "image": "/projects/mimimi.png",
+      "imageDark": "",
       "description": "Convierte texto a \"mi mi mi\". Lo puedes mandar como enlace y divertirte (o molestar a alguien ...)",
       "tags": "funny, mimificador",
       "url": "https://mimimi.manumorante.com",
@@ -64,8 +70,9 @@
     {
       "name": "Galería de fotos Masonry",
       "id": "masonry",
-      "new": false,
+      "featured": false,
       "image": "/projects/masonry.png",
+      "imageDark": "",
       "description": "Una bonita galería de fotos que aprovecha las ventajas de CSS Grid.",
       "tags": "css, grid, masonry",
       "url": "https://masonry.manumorante.com",
@@ -74,7 +81,9 @@
     {
       "name": "Streets of Rage",
       "id": "sor",
+      "featured": false,
       "image": "/projects/sor.png",
+      "imageDark": "",
       "description": "Introducción del juego adorado Streets of Rage de Sega Megadrive creado y animado todo con código.",
       "tags": "portfolio",
       "url": "https://streets-of-rage.manumorante.com",
@@ -83,7 +92,9 @@
       {
       "name": "Raycast DS Utility",
       "id": "ds-utility",
+      "featured": true,
       "image": "https://user-images.githubusercontent.com/3266486/140176890-f477f41d-8292-4f39-a101-445086828b7b.png",
+      "imageDark": "",
       "description": "Raycast Extension to manipulate DS Utilities classes.",
       "tags": "raycast, tool, css, ds",
       "url": "https://manumorante.github.io/raycast-ds-utilities/",
