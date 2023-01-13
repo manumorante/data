@@ -27,7 +27,7 @@
     {
       "name": "Minimalist Movie Posters",
       "id": "minimalist-movie-posters",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/posters.png",
       "imageDark": "",
@@ -39,7 +39,7 @@
     {
       "name": "CSS Pen",
       "id": "csspen",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/csspen.png",
       "imageDark": "",
@@ -52,7 +52,7 @@
     {
       "name": "Scenic Movies",
       "id": "scenic",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/scenic.png",
       "imageDark": "",
@@ -64,7 +64,7 @@
     {
       "name": "Mi mi mi",
       "id": "mimimi",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/mimimi.png",
       "imageDark": "",
@@ -76,7 +76,7 @@
     {
       "name": "Galería de fotos Masonry",
       "id": "masonry",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/masonry.png",
       "imageDark": "",
@@ -88,7 +88,7 @@
     {
       "name": "Streets of Rage",
       "id": "sor",
-      "published": false,
+      "published": true,
       "featured": false,
       "image": "https://manumorante.com/projects/sor.png",
       "imageDark": "",
