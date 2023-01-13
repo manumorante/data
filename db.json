@@ -3,6 +3,7 @@
     {
       "name": "Mordisco Club",
       "id": "mordisco.club",
+      "published": true,
       "featured": true,
       "image": "https://manumorante.com/projects/mordiscoclub.png",
       "imageDark": "",
@@ -14,6 +15,7 @@
     {
       "name": "Polaroids",
       "id": "polaroids",
+      "published": true,
       "featured": true,
       "image": "https://manumorante.com/projects/polaroids.png",
       "imageDark": "/projects/polaroids.dark.png",
@@ -25,6 +27,7 @@
     {
       "name": "Minimalist Movie Posters",
       "id": "minimalist-movie-posters",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/posters.png",
       "imageDark": "",
@@ -36,6 +39,7 @@
     {
       "name": "CSS Pen",
       "id": "csspen",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/csspen.png",
       "imageDark": "",
@@ -48,6 +52,7 @@
     {
       "name": "Scenic Movies",
       "id": "scenic",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/scenic.png",
       "imageDark": "",
@@ -59,6 +64,7 @@
     {
       "name": "Mi mi mi",
       "id": "mimimi",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/mimimi.png",
       "imageDark": "",
@@ -70,6 +76,7 @@
     {
       "name": "Galería de fotos Masonry",
       "id": "masonry",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/masonry.png",
       "imageDark": "",
@@ -81,6 +88,7 @@
     {
       "name": "Streets of Rage",
       "id": "sor",
+      "published": false,
       "featured": false,
       "image": "https://manumorante.com/projects/sor.png",
       "imageDark": "",
@@ -91,12 +99,26 @@
     },
       {
       "name": "Raycast DS Utility",
-      "id": "Raycast/ds-utilities",
+      "id": "raycast/ds-utilities",
+      "published": true,
       "featured": true,
       "image": "https://user-images.githubusercontent.com/3266486/140176890-f477f41d-8292-4f39-a101-445086828b7b.png",
       "imageDark": "",
       "description": "Raycast Extension to manipulate DS Utilities classes.",
       "tags": "raycast, tool, css, ds",
+      "url": "https://manumorante.github.io/raycast-ds-utilities/",
+      "repository": "https://github.com/manumorante/raycast-ds-utilities"
+    
+    },
+      {
+      "name": "Raycast Domestika",
+      "id": "raycast/domestika",
+      "published": false,
+      "featured": false,
+      "image": "https://user-images.githubusercontent.com/3266486/140176890-f477f41d-8292-4f39-a101-445086828b7b.png",
+      "imageDark": "",
+      "description": "Intranet extension to use our Domestika API.",
+      "tags": "raycast, tool, productivity",
       "url": "https://manumorante.github.io/raycast-ds-utilities/",
       "repository": "https://github.com/manumorante/raycast-ds-utilities"
     }
