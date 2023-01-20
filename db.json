@@ -106,7 +106,7 @@
       "imageDark": "",
       "description": "Raycast Extension to manipulate DS Utilities classes.",
       "tags": ["raycast", "tool", "css", "ds"],
-      "url": "https://manumorante.github.io/raycast-ds-utilities/",
+      "url": "https://manumorante.github.io/raycast-ds-utilities",
       "repository": "https://github.com/manumorante/raycast-ds-utilities"
     },
     {
@@ -114,12 +114,24 @@
       "id": "raycast/domestika",
       "published": false,
       "featured": false,
-      "image": "https://user-images.githubusercontent.com/3266486/140176890-f477f41d-8292-4f39-a101-445086828b7b.png",
+      "image": "",
       "imageDark": "",
       "description": "Intranet extension to use our Domestika API.",
       "tags": ["raycast", "tool", "productivity"],
-      "url": "https://manumorante.github.io/raycast-ds-utilities/",
-      "repository": "https://github.com/manumorante/raycast-ds-utilities"
+      "url": "",
+      "repository": ""
+    },
+{
+      "name": "Sofía Rocha",
+      "id": "sofiarocha",
+      "published": false,
+      "featured": false,
+      "image": "",
+      "imageDark": "",
+      "description": "Portafolio personal de Sofía Rocha.",
+      "tags": ["portfolio", "cv"],
+      "url": "https://sofiarocha.es",
+      "repository": "https://github.com/manumorante/sofiarocha"
     }
   ]
 }
