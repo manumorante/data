@@ -37,6 +37,18 @@
       "repository": "https://github.com/manumorante/minimalist-movie-posters"
     },
     {
+      "name": "Raycast DS Utility",
+      "id": "raycast/ds-utilities",
+      "published": true,
+      "featured": true,
+      "image": "https://manumorante.com/projects/ds-utilities.jpg",
+      "imageDark": "https://manumorante.com/projects/ds-utilities.dark.jpg",
+      "description": "Raycast Extension to manipulate DS Utilities classes.",
+      "tags": ["raycast", "tool", "css", "ds"],
+      "url": "https://manumorante.github.io/raycast-ds-utilities",
+      "repository": "https://github.com/manumorante/raycast-ds-utilities"
+    },
+    {
       "name": "CSS Pen",
       "id": "csspen",
       "published": true,
@@ -97,18 +109,7 @@
       "url": "https://streets-of-rage.manumorante.com",
       "repository": "https://github.com/manumorante/streets-of-rage"
     },
-    {
-      "name": "Raycast DS Utility",
-      "id": "raycast/ds-utilities",
-      "published": true,
-      "featured": true,
-      "image": "https://manumorante.com/projects/ds-utilities.jpg",
-      "imageDark": "https://manumorante.com/projects/ds-utilities.dark.jpg",
-      "description": "Raycast Extension to manipulate DS Utilities classes.",
-      "tags": ["raycast", "tool", "css", "ds"],
-      "url": "https://manumorante.github.io/raycast-ds-utilities",
-      "repository": "https://github.com/manumorante/raycast-ds-utilities"
-    },
+
     {
       "name": "Raycast Domestika",
       "id": "raycast/domestika",
